@@ -1,0 +1,32 @@
+html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Resume</title>
+</head>
+<body>
+  <h1>R.saranya</h1>
+  
+  <h2>profile</h2>
+  <p>computer science student</p>
+  <p>i consider myself a responsible and orderly person </p>
+  
+  <h2>Education</h2>
+  <p>[Annamalai univercity,Bsc., computer science]</p>
+  <p>Dharmapuram Adhinam Arts college</p>
+  <h2>contact me</h2>
+  <p>8825876505</p>
+  <p>mageshramesh76@gmail.com</p>
+  <p>2/116,manmadahan kovil street,mukkarumbur</p>
+  <h2>Language</h2>
+  <ul>
+  <li>Tamil</li>
+  <li>English</li>
+  <h2> Computer Skills</h2>
+  <ul>
+    <li>c</li>
+    <li>cpp</li>
+    <li>java</li>
+  </ul>
+</body>
+</html>

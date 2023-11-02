@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Resume</title>
+<style>
+body {
+  font-family:Arial,sans-serif;
+  margin:0;
+  padding:20px;
+}
+h1 {
+  color: #111;
+}
+h2 {
+  color: #232;
+}
+h3 {
+  color:#555;
+}
+h4 {
+   color:#777;
+}
+p {
+  color: #999;
+}
+</style>
+</head>
+<body>
+<h1>saranya</h1>
+<h2>➜profile</h2>
+<p>Computer science student</p>
+<p>I consider myself a responsible and orderly person</p>
+<h2>➜launguage</h2>
+<p>Tamil</p>
+<p>English</p>
+<h2>➜Education</h2>
+<h3>Annamalai University</h3>
+<p>Bachelor of science(Computer science) Course in 3 year</p>
+<h4>Dharmapuram Adhinam Arts College</h4>
+<p>2021-2024</p>
+<h2>➜Computer skills</h2>
+<p>C,Cpp,Java</p>
+<p>Mobile app development </p>
+<p>Slide presentation</p>
+<h2>➜Contact me</h2>
+<p>☞8825876505</p>
+<p>☞Maheshramesh76@gmail.com</p>
+<p>☞2/116,manmadha street,mukkarumbur, Mayiladuthurai,609309.
+</body>
+</html>
